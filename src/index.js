@@ -41,11 +41,11 @@ const { NODE_ENV } = process.env;
  * @see https://github.com/ctimmerm/axios-mock-adapter
  */
 /* const mock = */
-if (NODE_ENV === 'development' || NODE_ENV === 'test') {
-  console.log("*** axios mock adapter enabled ***");
-  _redux.mockAxios(axios);
+// if (NODE_ENV === 'development' || NODE_ENV === 'test') {
+//   console.log("*** axios mock adapter enabled ***");
+//   _redux.mockAxios(axios);
 
-}
+// }
 /**
  * Inject metronic interceptors for axios.
  *

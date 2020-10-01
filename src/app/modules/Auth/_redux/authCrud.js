@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const LOGIN_URL = "http://192.168.1.1/auth/v1";
+export const LOGIN_URL = "http://microservice-catalog-api/auth/login";
 
 export function login(email, password) {
   return axios.post(LOGIN_URL, { email, password }, {
