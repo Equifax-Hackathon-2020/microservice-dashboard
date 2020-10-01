@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const CATALOGUE = "http://microservice-catalog-api/catalogue";
+export const CATALOGUE = "http://35.184.73.42/catalogue";
 
 export function catalogues() {
   return axios.get(CATALOGUE, {
