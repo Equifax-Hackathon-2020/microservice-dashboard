@@ -4,7 +4,7 @@ export default [
   {
     id: 1,
     username: "rudi",
-    password: "hackathon",
+    password: "",
     email: "rudi.potgieter@equifax.com",
     accessToken: "access-token-8f3ae836da744329a6f93bf20594b5cc",
     refreshToken: "access-token-f8c137a2c98743f48b643e71161d90aa",
@@ -30,7 +30,7 @@ export default [
   {
     id: 2,
     username: "mark",
-    password: "hackathon",
+    password: "",
     email: "mark.taylor@equifax.com",
     accessToken: "access-token-6829bba69dd3421d8762-991e9e806dbf",
     refreshToken: "access-token-f8e4c61a318e4d618b6c199ef96b9e55",
@@ -56,7 +56,7 @@ export default [
   {
     id: 3,
     username: "nepesh",
-    password: "hackathon",
+    password: "",
     email: "nepesh.pradhan@equifax.com",
     accessToken: "access-token-d2dff7b82f784de584b60964abbe45b9",
     refreshToken: "access-token-c999ccfe74aa40d0aa1a64c5e620c1a5",
@@ -81,7 +81,7 @@ export default [
   {
     id: 4,
     username: "amulya",
-    password: "hackathon",
+    password: "",
     email: "amulya.jagadeesh@equifax.com",
     accessToken: "access-token-d2dff7b82f784de584b60964abbe45b1",
     refreshToken: "access-token-c999ccfe74aa40d0aa1a64c5e620c1a1",
@@ -106,7 +106,7 @@ export default [
   {
     id: 5,
     username: "rommel",
-    password: "hackathon",
+    password: "",
     email: "rommel.sumpo@equifax.com",
     accessToken: "access-token-d2dff7b82f784de584b60964abbe45b2",
     refreshToken: "access-token-c999ccfe74aa40d0aa1a64c5e620c1a2",
